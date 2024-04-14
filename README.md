@@ -1,5 +1,9 @@
-<a align="left"><img src="https://komarev.com/ghpvc/?username=sswethasaravanan&label=Profile%20views&color=0e75b6&style=flat" alt="wahyu-ikbal" /></a> <h1 align="center">Hii👋🏼This is Swetha Saravanan👨🏻‍💻</h1>
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=sswethasaravanan&label=Visitors&color=1&icon=0&pretty=true" />
+</a>
+<h1 align="center">Hii👋🏼This is Swetha Saravanan👨🏻‍💻</h1>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 ![readmebox](https://github.com/wahyudesu/wahyudesu/assets/96912274/301fe236-e965-4654-b32a-6351980d1628)
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <h3 align="left">💫 Myself :</h3>
