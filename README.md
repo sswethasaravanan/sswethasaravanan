@@ -1,6 +1,3 @@
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=sswethasaravanan&label=Visitors&color=1&icon=0&pretty=true" />
-</a>
 <h1 align="center">Hii👋🏼This is Swetha Saravanan👨🏻‍💻</h1>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
