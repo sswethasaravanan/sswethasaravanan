@@ -6,6 +6,7 @@
 <h3 align="left">💫 Myself :</h3>
 <p align="center">Hey Guys,I'm Swetha Saravanan,Currently pursuing B.Tech Artificial Intelligence and Data Science. As a passionate learner, I focusing on enhancing my skills in Python with Machine Learning.I am eager to contribute my creativity skills to build efficient and user-friendly Data manipulations and other AI based applications.Connect with me to collaborate on exciting projects!!!  
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<h2 align="center">⚡Quote of the day </h2>
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Readme Quotes"/>
 </div> 
