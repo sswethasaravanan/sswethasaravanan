@@ -1,3 +1,4 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sswethasaravanan&label=Views%20on%20Me&color=0e75b6&style=flat" alt="sswethasaravanan" /> </p>
 <h1 align="center">Hey <img src="https://github.com/nixin72/nixin72/blob/master/wave.gif" height="60px">This is Swetha Saravanan👨🏻‍💻</h1>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
